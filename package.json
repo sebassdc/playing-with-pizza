@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sebassdc/playing-with-pizza/issues"
   },
-  "homepage": "https://github.com/sebassdc/playing-with-pizza#readme"
+  "homepage": "https://github.com/sebassdc/playing-with-pizza#readme",
+  "dependencies": {
+    "dominos": "^2.1.1"
+  }
 }
